@@ -1,0 +1,99 @@
+/*body {
+	background-attachment: fixed;
+	background-image: url(student.jpeg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;*/
+
+}
+
+#red-herring {
+	color: red;
+}
+
+#violet {
+	color: violet;
+}
+
+h1 {
+	background-color: black;
+
+}
+#p1 {
+	font-size:20px;
+}
+#super-important{font-size:40px;}
+
+.same-color{
+	background-color:#DAF650;
+}
+
+#large-border{
+	padding: 10px 20px 30px 50px;
+}
+
+/*table {
+	border:1px solid #ff0000;
+}*/
+
+th {
+	border: 1px solid#ff0000;
+}
+
+td {
+	border: 1px solid#ff0000;
+}
+
+#image {
+	margin: 10px 50px 30px 50px;
+}
+#center-list {
+	margin: auto;
+	width: 400px;
+	text-align: left;
+}
+
+#heading {
+	margin: auto;
+	width: 400px;
+	text-align: left;
+}
+
+ul.navigation {
+  background-color: white;
+  display: block;
+  list-style: none;
+  margin-top: 0;
+  width: 100%;
+  height: 35px;
+}
+
+ul.navigation li {
+  display: inline-block;
+  float: left;
+}
+
+ul.navigation a {
+  color: black;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+ul.navigation a:hover {
+  background-color: black;
+  color: white;
+}
+
+Choose one of these three to implement on your own:
+
+    At least two responsive divs
+    Make the text on your page look nicer with a simple css trick or two like https://css-tricks.com/viewport-sized-typography/
+    Feeling ambitious?  Research something on http://codepen.io/ or try http://cssdeck.com/labs/another-simple-css3-dropdown-menu
+    Follow along with learnlayout.com
+
+Let's Pause
+
+and look at some beautiful sites created using only HTML and CSS:
+
+http://www.csszengarden.com/
